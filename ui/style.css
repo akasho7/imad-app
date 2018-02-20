@@ -20,3 +20,9 @@ body {
     height: 200px;
 }
 
+.cds{
+    text-align: center;
+    font-weight: bold;
+    color: red;
+}
+
