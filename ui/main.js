@@ -8,7 +8,7 @@ console.log('Loaded!');
  var marginleft=0;
  function moveRight(){
      marginleft=marginleft+10;
-     mady.style.marginleft=marginleft+'px';
+     img.style.marginleft=marginleft+'px';
  }
  mady.onclick=function()
  {
