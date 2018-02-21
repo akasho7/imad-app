@@ -5,10 +5,10 @@ console.log('Loaded!');
  
  // to move the image on clicking
  var img=document.getElementById('mady');
- var marginleft=0;
+ var marginLeft= 0;
  function moveRight(){
-     marginleft=marginleft+10;
-     img.style.marginleft=marginleft+'px';
+     marginLeft = marginLeft + 10;
+     img.style.marginLeft = marginLeft + 'px';
  }
  mady.onclick=function()
  {
