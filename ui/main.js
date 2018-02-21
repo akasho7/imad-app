@@ -7,5 +7,5 @@ console.log('Loaded!');
  var img=document.getElementById('mady');
  mady.onclick=function()
  {
-     var interval=setInterval(moveRidht,100);
+     var interval=setInterval(moveRight,100);
  }
